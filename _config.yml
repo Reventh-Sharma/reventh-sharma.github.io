@@ -84,10 +84,10 @@ author:
   avatar           : "https://github.com/Reventh-Sharma/reventh-sharma.github.io/blob/master/images/profile.jpg?raw=true"
   bio              : "Data Science Engineer, Couture.ai"
   location         : "Bangalore, India"
-  employer         :
+  employer         : "Couture.ai"
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "sharmareventh@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/reventh-sharma-b3022b16b/"
   orcid            : 
   pinterest        :
   soundcloud       :
