@@ -2,7 +2,6 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate Lab"
-permalink: /teaching/2024-spring-chem109
 venue: "Department of Chemistry & Biochemistry, UCSD"
 date: 2024-04-01
 location: "San Diego, California"
