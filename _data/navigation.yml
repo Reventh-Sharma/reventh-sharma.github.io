@@ -6,8 +6,8 @@ main:
   - title: "Research Experience"
     url: /research_experience
     
-#   - title: "Publications"
-#     url: /publications
+  - title: "Teaching Experience"
+    url: /teaching
     
   - title: "CV"
-    url: /files/Reventh%20Sharma-CV.pdf
+    url: /files/PhD_CV.pdf
