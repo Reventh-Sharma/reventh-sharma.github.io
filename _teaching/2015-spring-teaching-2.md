@@ -8,12 +8,3 @@ location: "San Diego, California"
 ---
 
 Led group of 24 students through Recombinant DNA Analysis Lab (CHEM 109)
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
