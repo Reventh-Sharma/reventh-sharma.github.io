@@ -13,10 +13,14 @@ I am a professional Data Scientist with a B.E. (Hons.) in Chemical Engineering a
 
 ## Education
 
-- **B.E. in Chemical Engineering**  
+- **Master of Science in Data Science**   
+  UCSD, 2023 - 2025   
+  San Diego, California, US
+
+- **Bachelors in Chemical Engineering**  
   BITS Pilani, 2017 – 2021  
   Pilani, Rajasthan, India
 
 - **Minor in Data Science**  
-  BITS Pilani, 2019 – 2021  
+  BITS Pilani, 2017 – 2021  
   Pilani, Rajasthan, India

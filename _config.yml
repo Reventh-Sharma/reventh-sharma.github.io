@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Reventh Sharma"
   avatar           : "https://github.com/Reventh-Sharma/reventh-sharma.github.io/blob/master/images/profile.png?raw=true"
-  bio              : "Data Science Engineer, Couture.ai"
-  location         : "Bangalore, India"
-  employer         : "Couture.ai"
+  bio              : "Master's Student"
+  location         : "Halıcıoğlu Data Science Institute"
+  employer         : "UCSD"
   pubmed           : 
   googlescholar    : 
   email            : "sharmareventh@gmail.com"
@@ -175,9 +175,9 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -210,13 +210,13 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
+  # - scope:
+  #     path: ""
+  #     type: teaching
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _publications
   - scope:

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Exprience"
+title: "Research Experience"
 permalink: /research_experience/
 author_profile: true
 ---
@@ -14,18 +14,29 @@ author_profile: true
 {% endfor %}
 -->
 
-### Image Captioning System Using ResNet-18 and Transformer
-*Dr. Surekha Bhanot, BITS Pilani* <br/>
-Time: Jan 2020 - May 2020 <br/>
-* Developed a image captioning system using ResNet-18 as encoder and Language-Transformer as decoder <br/>
-*Keywords*: Language-Transformer, ResNet-18, Computer Vision, NLP<br/>
+## Center for Visual Computing
+*Advised by: Prof. Manmohan Chandraker*
 
-### Development of Dynamic Gas Concentration Predictor from a Multi-Sensor Array
-*Dr. Suresh Gupta, BITS Pilani* <br/>
-Time: Aug 2019 - Dec 2019 <br/>
-* Built an LSTM-based model to predict concentration of gases in a mixture based on TGS sensor array output in a fluctuating environment 
-* Developed an anomaly detection model to remove erroneous values in sensor array <br/>
-*Keywords*: Time Series Forecasting, Deep Learning, LSTM, Anomaly Detection <br/>
+
+## MixLab
+*Advised by: Prof. Zhiting Hu*
+
+## Center for Applied Internet Data Analysis
+*Advised by: Prof. KC Claffy, Ricky Mok*    
+
+<hr>
+## Open Source Projects
+
+### DiTP: Transformer-Based Diffusion Model for Trajectory Planning
+Long-horizon path-planning algorithm using diffusion-transformers; achieves SOTA performance on Maze2D environments <br/>
+[<img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="Paper" style="width:20px;height:20px;">](https://github.com/Reventh-Sharma/LLM-Embed/blob/main/report.pdf)
+[<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/github-512.png" alt="Github" style="width:20px;height:20px;">](https://github.com/Reventh-Sharma/LLM-Embed)
+
+
+### LLM-Embed: Increasing Performance of RAG using LLMs as Encoder
+Zero-shot retrieval system using causal-LLMs and FAISS with 5x improvement in document retrieval performance <br/>
+[<img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="Paper" style="width:20px;height:20px;">](https://github.com/Reventh-Sharma/DiffusionBasedRL/blob/main/Diffusion_based_path_planning.pdf)
+[<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/github-512.png" alt="Github" style="width:20px;height:20px;">](https://github.com/Reventh-Sharma/DiffusionBasedRL)
 
 ### Wheat Type Classification Using Active Learning
 *Dr. Navneet Goyal, BITS Pilani* <br/>
