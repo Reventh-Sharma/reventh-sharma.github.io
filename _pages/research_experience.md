@@ -14,26 +14,25 @@ author_profile: true
 {% endfor %}
 -->
 
-## Center for Visual Computing
+## Center for Visual Computing, UCSD
 *Advised by: Prof. Manmohan Chandraker*
 - <u>Project</u>: Foundational Model for Texture, Illumination and Spatial Reasoning *(Ongoing)*    
   - Vision Language Model to infer scene level object and lightning characteristics 
 
-## MixLab
+## Center for Applied Internet Data Analysis, UCSD
+*Advised by: Prof. KC Claffy, Ricky Mok*   
+- <u>Project</u>: Botnet Scan Event Detection *(Ongoing)*
+  - Benchmark to analyze internet-wide vulnerable port scanning activities that are precursors to DDoS attacks
+
+## MixLab, UCSD
 *Advised by: Prof. Zhiting Hu*
 - <u>Project</u>: World Model Benchmark    
   - Contribution to the benchmark dataset that evaluates VLMs' perception capability in inferring environment state change and cause of change 
 
 - <u>Project</u>: Efficient Concept Learning using Causal Inference
-  - Contribution to the development of a few-shot learning framework, based on causal discovery, to categorize objects through visual concepts
+  - Contribution to the development of a few-shot learning framework, based on causal discovery, to categorize objects through visual concepts 
 
-
-## Center for Applied Internet Data Analysis
-*Advised by: Prof. KC Claffy, Ricky Mok*   
-- <u>Project</u>: Botnet Scan Event Detection *(Ongoing)*
-  - Benchmark to analyze internet-wide vulnerable port scanning activities that are precursors to DDoS attacks 
-
-## Department of Chemical Engineering
+## Department of Chemical Engineering, BITS Pilani
 *Advised by: Prof. Suresh Gupta*
 - <u>Project</u>: Fast Gas Concentration Prediction in Dynamic Environment
   - RNN-based algorithm to predict concentrations in a tertiary gas mixture within a dynamically changing environment using TGS sensor array
