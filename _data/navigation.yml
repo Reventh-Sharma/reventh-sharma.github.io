@@ -1,10 +1,10 @@
 main:
     
-  - title: "Work Experience"
-    url: /work_experience
-    
   - title: "Research Experience"
     url: /research_experience
+
+  - title: "Work Experience"
+    url: /work_experience
     
   - title: "Teaching Experience"
     url: /teaching_experience

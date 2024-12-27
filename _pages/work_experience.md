@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Work Exprience"
+title: "Work Experience"
 permalink: /work_experience/
 author_profile: true
 ---
@@ -14,15 +14,20 @@ author_profile: true
 {% endfor %}
 -->
 
-## Couture.ai
-* *Data Science Engineer, Retail Recommendation* <br/>
-Time: July 2021 - Present <br/>
-Topics: Recommendations, Image Search, Machine Learning, NLP, Computer Vision <br/>
+## Fair Issac Corporation (FICO)
+* *Analytics Science Intern, Fraud Analytics* <br/>
+Time: June 2024 - Sep 2024 <br/>
+Topics: LLM Pre-Training, Instruction Tuning, Domain-Specific LLM Training, Model Distillation, Quantization, Pruning <br/>
 
 ## Couture.ai
-* *Data Science Intern, Retail Recommendation* <br/>
+* *Machine Learning Engineer, Ecommerce Search & Recommendation* <br/>
+Time: July 2021 - Present <br/>
+Topics: Image Search, Low-Latency ML Inference, Similar Product Recommendation Engine, Semantic Matching, Transformers <br/>
+
+## Couture.ai
+* *Machine Learning Engineer Intern, Ecommerce Recommendation* <br/>
 Time: Jan 2021 - June 2021 <br/>
-Topics: Personalization, Collaborative Filtering, Content-Based Filtering <br/>
+Topics: Personalized Recommendation, Collaborative Filtering, Content-Based Filtering, User Segmentation <br/>
 
 ## Reliance Industries Limited
 * *Research Intern*  <br/>

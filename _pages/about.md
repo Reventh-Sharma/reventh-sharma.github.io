@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a professional Data Scientist with a B.E. (Hons.) in Chemical Engineering and a Minor in Data Science from BITS, Pilani. I am currently working as a Data Science Engineer at Couture.ai in the Product Recommendations team. I have worked in the areas of Recommendations, Image Captioning, Image Search, Time Series Analysis and Optimization through various projects in Academia and Industry. I aim to build robust and scalable solutions at the intersection of Computer Vision, Natural Language Processing and Personalization.  
+I am a second-year Data Science Master’s student at UCSD, where I have had the privilege of working under the guidance of Prof. Manmohan Chandraker, Prof. Zhiting Hu, Prof. KC Claffy, and Dr. Ricky Mok. My research interests lie in the development of efficient foundational Vision-Language Models (VLMs), with a particular focus on building robust and human-centric social and embodied reasoning capabilities.   
+My current research has been centered on benchmarking VLMs as World Models, enhancing foundational models with spatial and material inference capabilities, and designing efficient network security systems.
 
 
 ## Education
