@@ -46,14 +46,13 @@ author_profile: true
 
 ### DiTP: Transformer-Based Diffusion Model for Trajectory Planning
 Long-horizon path-planning algorithm using diffusion-transformers with SOTA performance on Maze2D environments <br/>
-[<img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="Paper" style="width:20px;height:20px;">](https://github.com/Reventh-Sharma/LLM-Embed/blob/main/report.pdf)
-[<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/github-512.png" alt="Github" style="width:20px;height:20px;">](https://github.com/Reventh-Sharma/LLM-Embed)
-
+[<img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="Paper" style="width:20px;height:20px;">](https://github.com/Reventh-Sharma/DiffusionBasedRL/blob/main/Diffusion_based_path_planning.pdf)
+[<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/github-512.png" alt="Github" style="width:20px;height:20px;">](https://github.com/Reventh-Sharma/DiffusionBasedRL)
 
 ### LLM-Embed: Increasing Performance of RAG using LLMs as Encoder
 Zero-shot retrieval system using causal-LLMs and FAISS with 5x improvement in document retrieval performance <br/>
-[<img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="Paper" style="width:20px;height:20px;">](https://github.com/Reventh-Sharma/DiffusionBasedRL/blob/main/Diffusion_based_path_planning.pdf)
-[<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/github-512.png" alt="Github" style="width:20px;height:20px;">](https://github.com/Reventh-Sharma/DiffusionBasedRL)
+[<img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="Paper" style="width:20px;height:20px;">](https://github.com/Reventh-Sharma/LLM-Embed/blob/main/report.pdf)
+[<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/github-512.png" alt="Github" style="width:20px;height:20px;">](https://github.com/Reventh-Sharma/LLM-Embed)
 
 <!-- ### Wheat Type Classification Using Active Learning
 *Dr. Navneet Goyal, BITS Pilani* <br/>
