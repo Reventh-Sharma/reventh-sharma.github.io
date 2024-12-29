@@ -21,7 +21,7 @@ Topics: LLM Pre-Training, Instruction Tuning, Domain-Specific LLM Training, Mode
 
 ## Couture.ai
 * *Machine Learning Engineer, Ecommerce Search & Recommendation* <br/>
-Time: July 2021 - Present <br/>
+Time: July 2021 - July 2023 <br/>
 Topics: Image Search, Low-Latency ML Inference, Similar Product Recommendation Engine, Semantic Matching, Transformers <br/>
 
 ## Couture.ai
